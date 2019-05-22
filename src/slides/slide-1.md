@@ -1,5 +1,11 @@
 class: center, middle
 
-# Title
+# Fire
+
+Shawn Catanzarite
+
+@shawncatz
+
+http://shawncatz.com/fire/
 
 ---
